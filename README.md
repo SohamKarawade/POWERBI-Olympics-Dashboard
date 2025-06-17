@@ -31,10 +31,6 @@ Data was cleaned and prepared using **Power Query** in Power BI:
 - **Pie Charts**: Medal distribution by type and top countries
 - **Map**: Highlighting all countries that won medals
 
-## 📷 Dashboard Preview
-
-![Olympics Dashboard Screenshot](dashboard.png)
-
 ## Dataset Source
 
 Data was scraped from:  
